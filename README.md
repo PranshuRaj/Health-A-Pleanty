@@ -1,13 +1,9 @@
 # Health-A-Pleanty
-This script is very useful for those who like to keep record of their daily life routine without sharing it with anyone. This script is easy only thing it requires is your app email id, password. Here app email id can be created from google account by two_step verification.
-# I am Student, coding lover, engineering aspirants
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+
+
 
 ## About This Project
-In this post, I am going to upload a quiz based on Sikkim(random topic).
-I tried to do it as simply as I can, I used basic file handling, random function, and python pattern design.
+This script is very useful for those who like to keep record of their daily life routine without sharing it with anyone. This script is easy only thing it requires is your app email id, password. Here app email id can be created from google account by two_step verification.
 
 Hope You all like it
 
